@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1725387279 source:c:\users\santiago\desktop\proyecto c\__string__\my__string.c
+	"my__string.h"
+
+1724252387 c:\users\santiago\desktop\proyecto c\__string__\my__string.h
+	<stdio.h>
+	<stdlib.h>
+
+1725387183 source:c:\users\santiago\desktop\proyecto c\__string__\main.c
+	"my__string.h"
+	<string.h>
+	<windows.h>
+
